@@ -1,6 +1,6 @@
 # MKSU
 
-A [KernelSU](https://github.com/tiann/KernelSU)-based root solution for Android devices.
+A [KernelSU](https://github.com/tiann/KernelSU/commit/eeffecbd1bd7d49672a1c6bd52d95d28a42acb21)-based root solution for Android devices.
 
 **Experimental. Use at your own risk.**
 
